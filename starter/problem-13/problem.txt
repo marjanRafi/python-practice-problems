@@ -1,0 +1,4 @@
+Problem 13: Compare the two dictionaries and find the common items based on KEYs of the dictionaries
+    dict1 = {'age': 13, 'id': 12, 'address': 'Banani', 'course': 'Python'}
+
+    dict2 = {'address': 'Rupnagar', 'id': 25, 'course': 'MERN'}

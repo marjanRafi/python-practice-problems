@@ -1,0 +1,1 @@
+Problem 15: Write conditional statements to identify the student’s average marks. If any subject’s mark is less than 40, you should print FAILED instead of making average marks
