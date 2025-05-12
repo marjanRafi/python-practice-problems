@@ -1,0 +1,1 @@
+# Problem-10: Check if a Number is Prime
