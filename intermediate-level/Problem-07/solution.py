@@ -1,7 +1,7 @@
 from collections import Counter
 
 def count_ips(log_file):
-    ip_counter = Counter()  # Initialize a Counter object to count the IPs
+    ip_counter = Counter() 
 
     try:
         # Open the log file
