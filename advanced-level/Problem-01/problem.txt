@@ -1,0 +1,3 @@
+Docker Log Analyzer
+
+>> Build a script that reads a Docker log file and returns error messages with timestamps.
